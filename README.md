@@ -3,6 +3,7 @@ My project this week is a display that shows you live data about my computer. It
 Basically, it uses a built in feature of the computer that tracks data like this, which is then monitored and sent to the raspberry pi. It is then transferred to the display and it shows up there. This is repeated multiple times a second, so it is a live tracker and constantly changes.
 
 I had to write two pieces of code because you need to retrieve the data on the computer, then send it to the raspberry pi which then sends it to the display.
+
 <img width="1228" height="625" alt="pccode" src="https://github.com/user-attachments/assets/bef897c6-c6e8-45cb-acf9-0be04463ed1f" />
 This is the code on the computer side. It constantly monitors the stats on there.
 
